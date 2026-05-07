@@ -48,5 +48,4 @@ Gambar destinasi diambil dari berbagai sumber eksternal:
 
 > ⚠️ **Catatan**: Gambar menggunakan URL eksternal, pastikan koneksi internet aktif.
 
-## 📂 Struktur File
 
